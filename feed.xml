@@ -5,7 +5,9 @@
   <description>MainBranch Extended: Maya and Sam are two AI-generated fans of the best newsletter for GitHub updates, going over the Main Branch newsletter each week. Read the newsletter at https://mainbranch.dev and find Andrea on Twitter at https://twitter.com/acolombiadev.
 
 AI Generated</description>
-  <language>en</language>
+  <itunes:owner><itunes:name>Andrea Griffiths</itunes:name><itunes:email>mainbranchextended@gmail.com</itunes:email></itunes:owner><itunes:category text="Technology" /><itunes:summary>MainBranch Extended: Maya and Sam are two AI-generated fans of the best newsletter for GitHub updates, going over the Main Branch newsletter each week. Read the newsletter at https://mainbranch.dev and find Andrea on Twitter at https://twitter.com/acolombiadev.
+
+AI Generated</itunes:summary><itunes:type>episodic</itunes:type><itunes:author>Andrea Griffiths</itunes:author><language>en</language>
   <itunes:explicit>no</itunes:explicit>
   <ns1:link href="https://muse.ai/podcasts/feed/1311603018703153/788213e2-188d-41de-a1c3-17dd14d9129e" rel="self" type="application/rss+xml" />
   <itunes:image href="https://muse.ai/podcasts/media/1311603018703153/788213e2-188d-41de-a1c3-17dd14d9129e/cover.png" />
@@ -244,7 +246,5 @@ AI Generated</description>
     <pubDate>Thu, 17 Sep 2026 00:34:24 +0000</pubDate>
     <itunes:duration>172</itunes:duration>
   </item>
-<itunes:author>Andrea Griffiths</itunes:author><itunes:type>episodic</itunes:type><itunes:summary>MainBranch Extended: Maya and Sam are two AI-generated fans of the best newsletter for GitHub updates, going over the Main Branch newsletter each week. Read the newsletter at https://mainbranch.dev and find Andrea on Twitter at https://twitter.com/acolombiadev.
-
-AI Generated</itunes:summary><itunes:owner><itunes:name>Andrea Griffiths</itunes:name><itunes:email>mainbranchextended@gmail.com</itunes:email></itunes:owner><itunes:category text="Technology" /></channel>
+</channel>
 </rss>

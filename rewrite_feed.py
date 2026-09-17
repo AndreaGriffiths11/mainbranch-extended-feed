@@ -34,34 +34,44 @@ def set_text(tag, text):
         el = ET.SubElement(channel, q(tag))
     el.text = text
 
-def ensure_owner():
-    owner = channel.find(q("owner"))
-    if owner is None:
-        owner = ET.SubElement(channel, q("owner"))
-    name = owner.find(q("name"))
-    if name is None:
-        name = ET.SubElement(owner, q("name"))
-    name.text = AUTHOR
-    email = owner.find(q("email"))
-    if email is None:
-        email = ET.SubElement(owner, q("email"))
-    email.text = OWNER_EMAIL
+# author / type / summary / owner / category -- inserted right after
+# <description> so channel metadata precedes all <item> elements
+def insert_after_description(tag, text=None, attrs=None):
+    el = channel.find(q(tag))
+    if el is None:
+        el = ET.Element(q(tag))
+        if text is not None:
+            el.text = text
+        for k, v in (attrs or {}).items():
+            el.set(k, v)
+        desc_el = channel.find("description")
+        idx = list(channel).index(desc_el) + 1 if desc_el is not None else 0
+        channel.insert(idx, el)
+    return el
 
-def ensure_category():
-    if channel.find(q("category")) is None:
-        cat = ET.SubElement(channel, q("category"))
-        cat.set("text", CATEGORY)
-
-# author / type / summary
-if not get_text("author"):
-    set_text("author", AUTHOR)
-if not get_text("type"):
-    set_text("type", "episodic")
-desc_el = channel.find("description")
-if desc_el is not None and desc_el.text and not get_text("summary"):
-    set_text("summary", desc_el.text)
-ensure_owner()
-ensure_category()
+desc_text = channel.findtext("description")
+insert_after_description("author", AUTHOR)
+insert_after_description("type", "episodic")
+if desc_text and not get_text("summary"):
+    insert_after_description("summary", desc_text)
+owner = insert_after_description("owner")
+name = owner.find(q("name"))
+if name is None:
+    name = ET.SubElement(owner, q("name"))
+name.text = AUTHOR
+email = owner.find(q("email"))
+if email is None:
+    email = ET.SubElement(owner, q("email"))
+email.text = OWNER_EMAIL
+if channel.find(q("category")) is None:
+    cat = ET.Element(q("category"))
+    cat.set("text", CATEGORY)
+    desc_el = channel.find("description")
+    idx = list(channel).index(desc_el) + 1 if desc_el is not None else 0
+    # place category right after owner for tidy metadata grouping
+    owner_el = channel.find(q("owner"))
+    idx = list(channel).index(owner_el) + 1 if owner_el is not None else idx
+    channel.insert(idx, cat)
 
 # normalize explicit: Apple wants yes/no/clean, feed has "false"
 exp = channel.find(q("explicit"))
