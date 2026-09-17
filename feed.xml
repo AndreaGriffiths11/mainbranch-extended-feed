@@ -1,0 +1,250 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns1="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title>MainBranch Extended</title>
+  <description>MainBranch Extended: Maya and Sam are two AI-generated fans of the best newsletter for GitHub updates, going over the Main Branch newsletter each week. Read the newsletter at https://mainbranch.dev and find Andrea on Twitter at https://twitter.com/acolombiadev.
+
+AI Generated</description>
+  <language>en</language>
+  <itunes:explicit>no</itunes:explicit>
+  <ns1:link href="https://muse.ai/podcasts/feed/1311603018703153/788213e2-188d-41de-a1c3-17dd14d9129e" rel="self" type="application/rss+xml" />
+  <itunes:image href="https://muse.ai/podcasts/media/1311603018703153/788213e2-188d-41de-a1c3-17dd14d9129e/cover.png" />
+  <image>
+    <url>https://muse.ai/podcasts/media/1311603018703153/788213e2-188d-41de-a1c3-17dd14d9129e/cover.png</url>
+    <title>MainBranch Extended</title>
+    <link>https://muse.ai/podcasts/feed/1311603018703153/788213e2-188d-41de-a1c3-17dd14d9129e</link>
+  </image>
+  <item>
+    <title>Main Branch Issue 40: The One Where You Delete a PAT</title>
+    <description>Maya and Sam walk through Issue 40: cache poisoning in GitHub Actions, Dependabot's package access changes, self-driving codebases, a hands-on test of WebMCP, and making intentional time for community work.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1311603018703153/788213e2-188d-41de-a1c3-17dd14d9129e/ep-bcb008a4-60d6-4100-b478-5fa3e3b298a8.mp3" length="1201381" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-bcb008a4-60d6-4100-b478-5fa3e3b298a8</guid>
+    <pubDate>Wed, 16 Sep 2026 11:15:02 +0000</pubDate>
+    <itunes:duration>150</itunes:duration>
+  </item>
+  <item>
+    <title>MainBranch Extended: Issue 7 - The One With the Prize Winners</title>
+    <description>Maya and Sam go over Main Branch Issue 7: the one hundred subscriber giveaway winners, an honest holiday note about rest versus code, and a Git tip on using worktrees instead of stashing. Read the newsletter at https://mainbranch.dev and find Andrea on Twitter at https://twitter.com/acolombiadev.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1311603018703153/788213e2-188d-41de-a1c3-17dd14d9129e/ep-96fc5317-a769-4972-a352-54032944ffd5.mp3" length="1107685" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-96fc5317-a769-4972-a352-54032944ffd5</guid>
+    <pubDate>Thu, 17 Sep 2026 00:24:22 +0000</pubDate>
+    <itunes:duration>138</itunes:duration>
+  </item>
+  <item>
+    <title>MainBranch Extended: Issue 33 - The One Where Permissions Get Picky</title>
+    <description>Maya and Sam go over Issue 33 of the Main Branch newsletter, covering the new ruleset control on who can dismiss pull request reviews, Copilot CLI authenticating with the built-in GITHUB_TOKEN, the Ponytail coding skill, and the APNG Studio app built at WeAreDevelopers in Berlin. Read the newsletter at https://mainbranch.dev and find Andrea on Twitter at https://twitter.com/acolombiadev.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1311603018703153/788213e2-188d-41de-a1c3-17dd14d9129e/ep-df00108f-c39c-443f-a843-167ee57e96cd.mp3" length="1260133" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-df00108f-c39c-443f-a843-167ee57e96cd</guid>
+    <pubDate>Thu, 17 Sep 2026 00:24:38 +0000</pubDate>
+    <itunes:duration>157</itunes:duration>
+  </item>
+  <item>
+    <title>MainBranch Extended: Issue 1 - Main Branch: Weekly Dev Tools and GitHub Fundamentals</title>
+    <description>Maya and Sam go back to the very first issue of Main Branch: comment-anywhere pull requests, faster Actions runners, and the fundamentals-first mission statement. Read the newsletter at https://mainbranch.dev and find Andrea on Twitter at https://twitter.com/acolombiadev.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1311603018703153/788213e2-188d-41de-a1c3-17dd14d9129e/ep-d6100384-b00e-44f3-8161-f399d1c5b19d.mp3" length="1296613" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-d6100384-b00e-44f3-8161-f399d1c5b19d</guid>
+    <pubDate>Thu, 17 Sep 2026 00:25:27 +0000</pubDate>
+    <itunes:duration>162</itunes:duration>
+  </item>
+  <item>
+    <title>MainBranch Extended: Issue 27 - The One Where You See the Bill Before It Arrives</title>
+    <description>Maya and Sam go over Issue 27: the Copilot billing preview report that shows your bill before it arrives, Dependabot reaching internal packages across orgs, and CSS corner-shape. Read the newsletter at https://mainbranch.dev and find Andrea on Twitter at https://twitter.com/acolombiadev.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1311603018703153/788213e2-188d-41de-a1c3-17dd14d9129e/ep-021225aa-277d-4c0b-9f8c-7537c0a02337.mp3" length="1389541" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-021225aa-277d-4c0b-9f8c-7537c0a02337</guid>
+    <pubDate>Thu, 17 Sep 2026 00:25:37 +0000</pubDate>
+    <itunes:duration>173</itunes:duration>
+  </item>
+  <item>
+    <title>MainBranch Extended: Issue 22 - The One Where Your Credentials Stop Living in .env</title>
+    <description>Maya and Sam go over Issue 22: batching Copilot Autofix suggestions into one commit, npm trusted publishing for CircleCI, Radical Candor, and great ideas walking out the door. Read the newsletter at https://mainbranch.dev and find Andrea on Twitter at https://twitter.com/acolombiadev.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1311603018703153/788213e2-188d-41de-a1c3-17dd14d9129e/ep-3165c25c-f9cb-4d25-a8f8-02fbde064710.mp3" length="1423909" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-3165c25c-f9cb-4d25-a8f8-02fbde064710</guid>
+    <pubDate>Thu, 17 Sep 2026 00:25:59 +0000</pubDate>
+    <itunes:duration>177</itunes:duration>
+  </item>
+  <item>
+    <title>MainBranch Extended: Issue 8 - The One Where Tooling Gets Faster</title>
+    <description>Maya and Sam go over Main Branch Issue 8: a prediction for the year of tooling, TypeScript seven's Go-based compiler, the faster GitHub Actions workflows page, and docs habits that help humans and AI agents alike. Read the newsletter at https://mainbranch.dev and find Andrea on Twitter at https://twitter.com/acolombiadev.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1311603018703153/788213e2-188d-41de-a1c3-17dd14d9129e/ep-ad9dad98-2bcc-4000-9c6d-5e175fabea36.mp3" length="1334245" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-ad9dad98-2bcc-4000-9c6d-5e175fabea36</guid>
+    <pubDate>Thu, 17 Sep 2026 00:26:17 +0000</pubDate>
+    <itunes:duration>166</itunes:duration>
+  </item>
+  <item>
+    <title>MainBranch Extended: Issue 15 - The One Where Agents Learned to Drive</title>
+    <description>Maya and Sam walk through Issue 15: GitHub Agentic Workflows in technical preview, Copilot coding agent updates across Zed and Windows, a homemade Renovate triage pipeline, and the most underrated free tiers. Read the newsletter at https://mainbranch.dev and find Andrea on Twitter at https://twitter.com/acolombiadev.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1311603018703153/788213e2-188d-41de-a1c3-17dd14d9129e/ep-0b5090c9-86f7-4c87-bee0-64706d7f8ab3.mp3" length="1876837" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-0b5090c9-86f7-4c87-bee0-64706d7f8ab3</guid>
+    <pubDate>Thu, 17 Sep 2026 00:26:29 +0000</pubDate>
+    <itunes:duration>234</itunes:duration>
+  </item>
+  <item>
+    <title>MainBranch Extended: Issue 23 - The One Where GitHub Becomes an App Store</title>
+    <description>Maya and Sam go over Issue 23: async SBOM exports, agent skills and the new gh skill command, a clear-eyed book on AI labs, and Andrea's Team Xray talk at Nerdearla. Read the newsletter at https://mainbranch.dev and find Andrea on Twitter at https://twitter.com/acolombiadev.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1311603018703153/788213e2-188d-41de-a1c3-17dd14d9129e/ep-8870ac93-dd65-4f80-83bd-95d94c8a8894.mp3" length="1415653" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-8870ac93-dd65-4f80-83bd-95d94c8a8894</guid>
+    <pubDate>Thu, 17 Sep 2026 00:27:04 +0000</pubDate>
+    <itunes:duration>176</itunes:duration>
+  </item>
+  <item>
+    <title>MainBranch Extended: Issue 35 - The One Where the Giant PR Gets Broken Up</title>
+    <description>Maya and Sam go over Issue 35 of the Main Branch newsletter, covering stacked pull requests in public preview, configurable Dependabot branch names, Mike McQuaid's case for fun in open source, Agent Plugins 1.0.0, and Andrea's talk at Node.js Interactive inside RenderATL. Read the newsletter at https://mainbranch.dev and find Andrea on Twitter at https://twitter.com/acolombiadev.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1311603018703153/788213e2-188d-41de-a1c3-17dd14d9129e/ep-7a577956-ae1f-4ed0-b6b6-f36b660d0d57.mp3" length="1360933" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-7a577956-ae1f-4ed0-b6b6-f36b660d0d57</guid>
+    <pubDate>Thu, 17 Sep 2026 00:27:18 +0000</pubDate>
+    <itunes:duration>170</itunes:duration>
+  </item>
+  <item>
+    <title>MainBranch Extended: Issue 3 - The One Where Code Reviews Got Actually Better</title>
+    <description>Maya and Sam cover issue three: the Files Changed tab redesign, CodeRabbit paired with Copilot for reviews, and the sci-fi show Pluribus. Read the newsletter at https://mainbranch.dev and find Andrea on Twitter at https://twitter.com/acolombiadev.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1311603018703153/788213e2-188d-41de-a1c3-17dd14d9129e/ep-4a21aea5-b0dc-4ca8-b4d8-6cb8e9214762.mp3" length="1305061" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-4a21aea5-b0dc-4ca8-b4d8-6cb8e9214762</guid>
+    <pubDate>Thu, 17 Sep 2026 00:27:27 +0000</pubDate>
+    <itunes:duration>163</itunes:duration>
+  </item>
+  <item>
+    <title>MainBranch Extended: Issue 16 - The One Where Plumbing Got Fixed</title>
+    <description>Maya and Sam walk through Issue 16: the workflow dispatch run ID fix, Actions artifacts that no longer force-zip, Claude Opus 4.6 for serious dev work, and thinking abundantly in a rough week. Read the newsletter at https://mainbranch.dev and find Andrea on Twitter at https://twitter.com/acolombiadev.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1311603018703153/788213e2-188d-41de-a1c3-17dd14d9129e/ep-4f9d3ebe-c3cf-4a34-95f5-61719ad4d000.mp3" length="1312165" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-4f9d3ebe-c3cf-4a34-95f5-61719ad4d000</guid>
+    <pubDate>Thu, 17 Sep 2026 00:27:55 +0000</pubDate>
+    <itunes:duration>164</itunes:duration>
+  </item>
+  <item>
+    <title>MainBranch Extended: Issue 24 - The One Where the Old Commands Win</title>
+    <description>Maya and Sam go over Issue 24: Git 2.54's new git history command, why git switch and git restore beat git checkout, the Copilot CLI update, and Google Stitch's DESIGN.md. Read the newsletter at https://mainbranch.dev and find Andrea on Twitter at https://twitter.com/acolombiadev.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1311603018703153/788213e2-188d-41de-a1c3-17dd14d9129e/ep-2bcce99f-98ef-4fae-af07-78f8e2dc1f72.mp3" length="2072485" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-2bcce99f-98ef-4fae-af07-78f8e2dc1f72</guid>
+    <pubDate>Thu, 17 Sep 2026 00:28:43 +0000</pubDate>
+    <itunes:duration>259</itunes:duration>
+  </item>
+  <item>
+    <title>MainBranch Extended: Issue 17 - The One Where GitHub Finally Remembered Where It Put Everything</title>
+    <description>Maya and Sam walk through Issue 17: the Repository Dashboard, required reviewer rulesets, GitHub Projects import by query, a deep Pragmatic Engineer episode on Claude Code, and Supermemory for agent memory. Read the newsletter at https://mainbranch.dev and find Andrea on Twitter at https://twitter.com/acolombiadev.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1311603018703153/788213e2-188d-41de-a1c3-17dd14d9129e/ep-21fa7582-8d98-42ab-9973-87fb0a084ed7.mp3" length="1476133" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-21fa7582-8d98-42ab-9973-87fb0a084ed7</guid>
+    <pubDate>Thu, 17 Sep 2026 00:29:17 +0000</pubDate>
+    <itunes:duration>184</itunes:duration>
+  </item>
+  <item>
+    <title>MainBranch Extended: Issue 5 - The One With Git Tips Nobody Tells You</title>
+    <description>Maya and Sam go over issue five: the Git commands nobody tells you, from reflog to bisect, plus workflow dispatch inputs and FFmpeg. Read the newsletter at https://mainbranch.dev and find Andrea on Twitter at https://twitter.com/acolombiadev.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1311603018703153/788213e2-188d-41de-a1c3-17dd14d9129e/ep-8aa58039-c1c0-482c-b8a5-4dba6d4167b4.mp3" length="1326949" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-8aa58039-c1c0-482c-b8a5-4dba6d4167b4</guid>
+    <pubDate>Thu, 17 Sep 2026 00:29:43 +0000</pubDate>
+    <itunes:duration>165</itunes:duration>
+  </item>
+  <item>
+    <title>MainBranch Extended: Issue 25 - The One Where Your Tokens Have a Price Tag</title>
+    <description>Maya and Sam go over Issue 25: Copilot's move to usage-based billing, TanStack AI's native audio generation, the MCP vs CLI head-to-head, and the Main Branch writing contest. Read the newsletter at https://mainbranch.dev and find Andrea on Twitter at https://twitter.com/acolombiadev.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1311603018703153/788213e2-188d-41de-a1c3-17dd14d9129e/ep-4e714004-8294-4837-aa49-b3a1006f351f.mp3" length="1601317" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-4e714004-8294-4837-aa49-b3a1006f351f</guid>
+    <pubDate>Thu, 17 Sep 2026 00:30:01 +0000</pubDate>
+    <itunes:duration>200</itunes:duration>
+  </item>
+  <item>
+    <title>MainBranch Extended: Issue 37 - The One Where the Retries Made It Worse</title>
+    <description>Maya and Sam go over Issue 37 of the Main Branch newsletter, covering GitHub's August 17 outage and the retry storm that extended it, single-credential kill-switches, better blocked-user tools, a predictive autoscaling paper, and experiments on whether AGENTS.md changes agent behavior. Read the newsletter at https://mainbranch.dev and find Andrea on Twitter at https://twitter.com/acolombiadev.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1311603018703153/788213e2-188d-41de-a1c3-17dd14d9129e/ep-5ace4d0a-61e4-410a-9116-002cc3956932.mp3" length="1767013" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-5ace4d0a-61e4-410a-9116-002cc3956932</guid>
+    <pubDate>Thu, 17 Sep 2026 00:30:21 +0000</pubDate>
+    <itunes:duration>220</itunes:duration>
+  </item>
+  <item>
+    <title>MainBranch Extended: Issue 19 - The One Where Actions Stops Fighting You</title>
+    <description>Maya and Sam walk through Issue 19: GitHub Actions environments without deployments, timezone support for scheduled workflows, the prompt-injected CONTRIBUTING.md that caught bot PRs, and showing up human. Read the newsletter at https://mainbranch.dev and find Andrea on Twitter at https://twitter.com/acolombiadev.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1311603018703153/788213e2-188d-41de-a1c3-17dd14d9129e/ep-81147901-b917-43cc-845e-940d8b2feea7.mp3" length="1454053" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-81147901-b917-43cc-845e-940d8b2feea7</guid>
+    <pubDate>Thu, 17 Sep 2026 00:30:47 +0000</pubDate>
+    <itunes:duration>181</itunes:duration>
+  </item>
+  <item>
+    <title>MainBranch Extended: Issue 38 - The One Where Your CI History Gets Shorter</title>
+    <description>Maya and Sam go over Issue 38 of the Main Branch newsletter, covering the October 1 deadline for Actions retention of CI history, push rule path exceptions, the rule insights dashboard going GA, The Audacity on Netflix, the machine-mcp server, and DevOps Days Lima. Read the newsletter at https://mainbranch.dev and find Andrea on Twitter at https://twitter.com/acolombiadev.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1311603018703153/788213e2-188d-41de-a1c3-17dd14d9129e/ep-db0f65c9-d49d-4103-bdf1-522d93ffe11a.mp3" length="1341733" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-db0f65c9-d49d-4103-bdf1-522d93ffe11a</guid>
+    <pubDate>Thu, 17 Sep 2026 00:31:45 +0000</pubDate>
+    <itunes:duration>167</itunes:duration>
+  </item>
+  <item>
+    <title>MainBranch Extended: Issue 18 - The One Where Your Hooks Update Themselves</title>
+    <description>Maya and Sam go over Main Branch Issue 18: Dependabot pre-commit hook updates going GA, GitHub Actions OIDC tokens carrying repository custom properties in public preview, the Die with Zero memory dividend debate, and Andrea's calm TRMNL e-ink desk display. Read the newsletter at https://mainbranch.dev and find Andrea on Twitter at https://twitter.com/acolombiadev.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1311603018703153/788213e2-188d-41de-a1c3-17dd14d9129e/ep-9672db4b-187b-4c7f-ac71-ec9be76d9c08.mp3" length="1345189" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-9672db4b-187b-4c7f-ac71-ec9be76d9c08</guid>
+    <pubDate>Thu, 17 Sep 2026 00:32:20 +0000</pubDate>
+    <itunes:duration>168</itunes:duration>
+  </item>
+  <item>
+    <title>MainBranch Extended: Issue 26 - The One Where the Rules Finally Make Sense</title>
+    <description>Maya and Sam go over Issue 26: ruleset bypass controls, secret scanning inside the MCP workflow, LSP speedups in the Copilot CLI, and ClawPilot. Read the newsletter at https://mainbranch.dev and find Andrea on Twitter at https://twitter.com/acolombiadev.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1311603018703153/788213e2-188d-41de-a1c3-17dd14d9129e/ep-e3829d6b-3806-46ce-ad27-b32c5e9a2542.mp3" length="1560229" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-e3829d6b-3806-46ce-ad27-b32c5e9a2542</guid>
+    <pubDate>Thu, 17 Sep 2026 00:32:47 +0000</pubDate>
+    <itunes:duration>195</itunes:duration>
+  </item>
+  <item>
+    <title>MainBranch Extended: Issue 39 - The One Where the Screenshot Ships With the Bug</title>
+    <description>Maya and Sam go over Issue 39 of the Main Branch newsletter, covering Project HydraFusion, the GitHub CLI attach flag for issues and PRs, multiple trusted publishing configs for npm, MCP dynamic client registration, a Cloudflare Worker for the subscribe button, and a GitHub Universe ticket giveaway. Read the newsletter at https://mainbranch.dev and find Andrea on Twitter at https://twitter.com/acolombiadev.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1311603018703153/788213e2-188d-41de-a1c3-17dd14d9129e/ep-965647e0-50dc-45a4-aac5-b4e9d8a1f3ad.mp3" length="1296229" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-965647e0-50dc-45a4-aac5-b4e9d8a1f3ad</guid>
+    <pubDate>Thu, 17 Sep 2026 00:33:02 +0000</pubDate>
+    <itunes:duration>162</itunes:duration>
+  </item>
+  <item>
+    <title>MainBranch Extended: Issue 13 - The One Where Issues Made the Playoffs</title>
+    <description>Maya and Sam go over Issue 13 of the Main Branch newsletter, covering pinned comments on issues, semantic search for issues in public preview, a Lex episode on how LLM development actually works, the git lg alias, and four weeks of travel. Read the newsletter at https://mainbranch.dev and find Andrea on Twitter at https://twitter.com/acolombiadev.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1311603018703153/788213e2-188d-41de-a1c3-17dd14d9129e/ep-2f80908d-6880-4823-b34b-e9730e2dc6cd.mp3" length="1383205" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-2f80908d-6880-4823-b34b-e9730e2dc6cd</guid>
+    <pubDate>Thu, 17 Sep 2026 00:34:24 +0000</pubDate>
+    <itunes:duration>172</itunes:duration>
+  </item>
+<itunes:author>Andrea Griffiths</itunes:author><itunes:type>episodic</itunes:type><itunes:summary>MainBranch Extended: Maya and Sam are two AI-generated fans of the best newsletter for GitHub updates, going over the Main Branch newsletter each week. Read the newsletter at https://mainbranch.dev and find Andrea on Twitter at https://twitter.com/acolombiadev.
+
+AI Generated</itunes:summary><itunes:owner><itunes:name>Andrea Griffiths</itunes:name><itunes:email>mainbranchextended@gmail.com</itunes:email></itunes:owner><itunes:category text="Technology" /></channel>
+</rss>
