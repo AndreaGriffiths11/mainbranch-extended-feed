@@ -246,5 +246,15 @@ AI Generated</description>
     <pubDate>Thu, 17 Sep 2026 00:34:24 +0000</pubDate>
     <itunes:duration>172</itunes:duration>
   </item>
+  <item>
+    <title>MainBranch Extended: Issue 42 - The One Where Your Git Push Might Break</title>
+    <description>Maya and Sam go over Issue 42 of the Main Branch newsletter, covering GitHub's SSH security hardening, the final Node 20 cutoff in GitHub Actions, Dan Wang's Breakneck, Andrea's grokbot2claw experiment, and her Cafe con Mito interview. Subscribe to the Main Branch newsletter at https://mainbranch.dev and follow Andrea on Twitter for the latest: @acolombiadev.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1311603018703153/788213e2-188d-41de-a1c3-17dd14d9129e/ep-414eb03d-8b8e-40f3-98b9-ed6e25a8a37b.mp3" length="1600933" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-414eb03d-8b8e-40f3-98b9-ed6e25a8a37b</guid>
+    <pubDate>Mon, 28 Sep 2026 10:35:54 +0000</pubDate>
+    <itunes:duration>200</itunes:duration>
+  </item>
 </channel>
 </rss>
