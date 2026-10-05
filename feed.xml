@@ -256,5 +256,15 @@ AI Generated</description>
     <pubDate>Mon, 28 Sep 2026 10:35:54 +0000</pubDate>
     <itunes:duration>200</itunes:duration>
   </item>
+  <item>
+    <title>MainBranch Extended: Issue 43 - The One Where Your Coverage Check Was Lying</title>
+    <description>Maya and Sam go over Issue 43 of the Main Branch newsletter, covering coverage uploads that no longer fail CI on new branches, dynamic workflows in Copilot, Mustafa Suleyman on model welfare, and HydraFusion's AI unit numbers. Subscribe to the Main Branch newsletter at https://mainbranch.dev and follow Andrea on Twitter for the latest: @acolombiadev.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1311603018703153/788213e2-188d-41de-a1c3-17dd14d9129e/ep-1969099e-ddb6-4c00-9da0-b1d65b7ce828.mp3" length="1489381" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-1969099e-ddb6-4c00-9da0-b1d65b7ce828</guid>
+    <pubDate>Mon, 05 Oct 2026 10:35:30 +0000</pubDate>
+    <itunes:duration>186</itunes:duration>
+  </item>
 </channel>
 </rss>
