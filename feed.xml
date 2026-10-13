@@ -266,5 +266,15 @@ AI Generated</description>
     <pubDate>Mon, 05 Oct 2026 10:35:30 +0000</pubDate>
     <itunes:duration>186</itunes:duration>
   </item>
+  <item>
+    <title>MainBranch Extended: Issue 44 - The One Where Your Regex Had One Job</title>
+    <description>Maya and Sam go over Issue 44 of the Main Branch newsletter, covering stateless GitHub App tokens, a fine-tuned model for secret detection, Git infrastructure at agent scale, and Andrea's CIMD reference server for MCP. Subscribe to the Main Branch newsletter at https://mainbranch.dev and follow Andrea on Twitter for the latest: @acolombiadev.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1311603018703153/788213e2-188d-41de-a1c3-17dd14d9129e/ep-2a778818-dcb3-4ae5-8fc4-f66cd269e36b.mp3" length="1483429" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-2a778818-dcb3-4ae5-8fc4-f66cd269e36b</guid>
+    <pubDate>Tue, 13 Oct 2026 03:13:49 +0000</pubDate>
+    <itunes:duration>185</itunes:duration>
+  </item>
 </channel>
 </rss>
