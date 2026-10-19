@@ -276,5 +276,15 @@ AI Generated</description>
     <pubDate>Tue, 13 Oct 2026 03:13:49 +0000</pubDate>
     <itunes:duration>185</itunes:duration>
   </item>
+  <item>
+    <title>MainBranch Extended: Issue 45 - The One Where the Agent's First Guess Was Wrong</title>
+    <description>Maya and Sam go over Issue 45 of the Main Branch newsletter, covering GitHub Actions workflow lockfiles, two new least-privilege GitHub App permissions, Cindy Sridharan on debugging with agents, Andrea's Hypothesis-Driven Debugging skill, and GitHub Universe table reads. Subscribe to the Main Branch newsletter at https://mainbranch.dev and follow Andrea on Twitter for the latest: @acolombiadev.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1311603018703153/788213e2-188d-41de-a1c3-17dd14d9129e/ep-83c24b96-f92a-47b6-a712-b4d13a823b56.mp3" length="1496485" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-83c24b96-f92a-47b6-a712-b4d13a823b56</guid>
+    <pubDate>Mon, 19 Oct 2026 10:33:31 +0000</pubDate>
+    <itunes:duration>187</itunes:duration>
+  </item>
 </channel>
 </rss>
