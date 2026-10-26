@@ -286,5 +286,15 @@ AI Generated</description>
     <pubDate>Mon, 19 Oct 2026 10:33:31 +0000</pubDate>
     <itunes:duration>187</itunes:duration>
   </item>
+  <item>
+    <title>MainBranch Extended: Issue 46 - The One Where Your gh Token Expires on Purpose</title>
+    <description>Maya and Sam go over Issue 46 of the Main Branch newsletter, covering expiring GitHub CLI tokens, bulk migrating branch protections to rulesets, Jakub Krehel on knowing what not to build, and Copilot computer use. Subscribe to the Main Branch newsletter at https://mainbranch.dev and follow Andrea on Twitter for the latest: @acolombiadev.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1311603018703153/788213e2-188d-41de-a1c3-17dd14d9129e/ep-67ad47d5-eddf-45ae-bcf8-e19a220fabf7.mp3" length="1400677" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-67ad47d5-eddf-45ae-bcf8-e19a220fabf7</guid>
+    <pubDate>Mon, 26 Oct 2026 21:10:46 +0000</pubDate>
+    <itunes:duration>175</itunes:duration>
+  </item>
 </channel>
 </rss>
