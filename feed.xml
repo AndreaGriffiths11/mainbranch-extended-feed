@@ -296,5 +296,15 @@ AI Generated</description>
     <pubDate>Mon, 26 Oct 2026 21:10:46 +0000</pubDate>
     <itunes:duration>175</itunes:duration>
   </item>
+  <item>
+    <title>MainBranch Extended: Issue 47 - The One Where Your Runners Go Multi-Cloud</title>
+    <description>Maya and Sam go over Issue 47 of the Main Branch newsletter, covering Dependabot reachability analysis, GitHub Actions multi-cloud runners, Ahmad Awais on the read tool, and Andrea's new Copy for AI button. Subscribe to the Main Branch newsletter at https://mainbranch.dev and follow Andrea on Twitter for the latest: @acolombiadev.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1311603018703153/788213e2-188d-41de-a1c3-17dd14d9129e/ep-330d20c9-361c-4a7a-b27e-86eaefa42478.mp3" length="1427173" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-330d20c9-361c-4a7a-b27e-86eaefa42478</guid>
+    <pubDate>Mon, 02 Nov 2026 11:31:26 +0000</pubDate>
+    <itunes:duration>178</itunes:duration>
+  </item>
 </channel>
 </rss>
