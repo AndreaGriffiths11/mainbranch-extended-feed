@@ -306,5 +306,15 @@ AI Generated</description>
     <pubDate>Mon, 02 Nov 2026 11:31:26 +0000</pubDate>
     <itunes:duration>178</itunes:duration>
   </item>
+  <item>
+    <title>MainBranch Extended: Issue 48 - The One Where Your Workflows Get a New Deadline</title>
+    <description>Maya and Sam go over Issue 48 of the Main Branch newsletter, covering the pull_request_target default block, pull request limit exemptions, Lex Fridman's AI Crisis in Math, and Copilot Automations. Subscribe to the Main Branch newsletter at https://mainbranch.dev and follow Andrea on Twitter for the latest: @acolombiadev.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1311603018703153/788213e2-188d-41de-a1c3-17dd14d9129e/ep-7df1a844-a386-4048-ac7a-e2f10c9c210d.mp3" length="1496677" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-7df1a844-a386-4048-ac7a-e2f10c9c210d</guid>
+    <pubDate>Mon, 09 Nov 2026 11:32:04 +0000</pubDate>
+    <itunes:duration>187</itunes:duration>
+  </item>
 </channel>
 </rss>
