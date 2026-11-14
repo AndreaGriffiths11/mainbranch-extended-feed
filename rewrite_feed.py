@@ -12,7 +12,7 @@ ET.register_namespace("itunes", ITUNES_NS)
 ET.register_namespace("", "")
 
 AUTHOR = "Andrea Griffiths"
-OWNER_EMAIL = "mainbranchextended@gmail.com"
+OWNER_EMAIL = "andrealiliana@msn.com"
 CATEGORY = "Technology"
 
 def q(tag):
