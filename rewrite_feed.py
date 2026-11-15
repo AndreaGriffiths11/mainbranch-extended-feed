@@ -14,6 +14,7 @@ ET.register_namespace("", "")
 AUTHOR = "Andrea Griffiths"
 OWNER_EMAIL = "andrealiliana@msn.com"
 CATEGORY = "Technology"
+COVER_URL = "https://andreagriffiths11.github.io/mainbranch-extended-feed/cover.png"
 
 def q(tag):
     return f"{{{ITUNES_NS}}}{tag}"
@@ -73,6 +74,23 @@ if channel.find(q("category")) is None:
     idx = list(channel).index(owner_el) + 1 if owner_el is not None else idx
     channel.insert(idx, cat)
 
+# cover art: use our own image (new mainbranch.dev style), not the
+# platform's clay-mic cover. Override both itunes:image and the RSS
+# <image> block so every reader sees the same art.
+img = channel.find(q("image"))
+if img is None:
+    img = ET.Element(q("image"))
+    desc_el = channel.find("description")
+    idx = list(channel).index(desc_el) + 1 if desc_el is not None else 0
+    channel.insert(idx, img)
+img.set("href", COVER_URL)
+rss_img = channel.find("image")
+if rss_img is not None:
+    url_el = rss_img.find("url")
+    if url_el is None:
+        url_el = ET.SubElement(rss_img, "url")
+    url_el.text = COVER_URL
+
 # normalize explicit: Apple wants yes/no/clean, feed has "false"
 exp = channel.find(q("explicit"))
 if exp is not None and (exp.text or "").strip().lower() in ("false", "0"):
@@ -84,5 +102,5 @@ tree.write(OUT, encoding="utf-8", xml_declaration=True)
 # sanity: report item count and injected tags
 check = open(OUT, encoding="utf-8").read()
 items = len(re.findall(r"<item>", check))
-tags = {t: f"<itunes:{t}>" in check or f"<itunes:{t} " in check for t in ["author", "owner", "category", "type", "summary"]}
+tags = {t: f"<itunes:{t}>" in check or f"<itunes:{t} " in check for t in ["author", "owner", "category", "type", "summary", "image"]}
 print(f"items={items} tags={tags}")
