@@ -19,8 +19,13 @@ COVER_URL = "https://andreagriffiths11.github.io/mainbranch-extended-feed/cover.
 def q(tag):
     return f"{{{ITUNES_NS}}}{tag}"
 
-req = urllib.request.Request(SOURCE, headers={"User-Agent": "MainBranchFeedProxy/1.0"})
-raw = urllib.request.urlopen(req, timeout=60).read()
+if len(sys.argv) > 2:
+    # local refresh: read a feed XML file saved from the source (muse.ai is
+    # unreachable from this VM, so Andrea downloads it on her Mac instead)
+    raw = open(sys.argv[2], "rb").read()
+else:
+    req = urllib.request.Request(SOURCE, headers={"User-Agent": "MainBranchFeedProxy/1.0"})
+    raw = urllib.request.urlopen(req, timeout=60).read()
 root = ET.fromstring(raw)
 channel = root.find("channel")
 assert channel is not None, "no channel in feed"

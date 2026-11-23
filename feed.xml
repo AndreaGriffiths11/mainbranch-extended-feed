@@ -316,5 +316,25 @@ AI Generated</description>
     <pubDate>Mon, 09 Nov 2026 11:32:04 +0000</pubDate>
     <itunes:duration>187</itunes:duration>
   </item>
+  <item>
+    <title>MainBranch Extended: Issue 49 - The One Where Alerts Pause on Inactive Repos</title>
+    <description>Maya and Sam go over Issue 49 of the Main Branch newsletter, covering Dependabot alerts pausing on inactive repos, the new pull request overview page, Cassidy's Samsung TV hack, and a secret scan gate. Subscribe to the Main Branch newsletter at https://mainbranch.dev and follow Andrea on Twitter for the latest: @acolombiadev.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1311603018703153/788213e2-188d-41de-a1c3-17dd14d9129e/ep-14717f1f-7726-4f86-827c-6c1e3897f684.mp3" length="1432549" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-14717f1f-7726-4f86-827c-6c1e3897f684</guid>
+    <pubDate>Mon, 16 Nov 2026 11:31:59 +0000</pubDate>
+    <itunes:duration>179</itunes:duration>
+  </item>
+  <item>
+    <title>MainBranch Extended: Issue 50 - The One Where gh Waits for the PR</title>
+    <description>Maya and Sam go over Issue 50 of the Main Branch newsletter, covering gh event listen in GitHub CLI, Red Hat Enterprise Linux runner images, interview advice from Lauren Tan, and a fresh look for mainbranch.dev. Subscribe to the Main Branch newsletter at https://mainbranch.dev and follow Andrea on Twitter for the latest: @acolombiadev.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/1311603018703153/788213e2-188d-41de-a1c3-17dd14d9129e/ep-9e2d247b-db16-41ab-af57-270261abc150.mp3" length="1259557" type="audio/mpeg" />
+    <guid isPermaLink="false">ep-9e2d247b-db16-41ab-af57-270261abc150</guid>
+    <pubDate>Mon, 23 Nov 2026 11:32:02 +0000</pubDate>
+    <itunes:duration>157</itunes:duration>
+  </item>
 </channel>
 </rss>
